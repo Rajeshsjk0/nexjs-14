@@ -1,4 +1,4 @@
-const productDetail = ({
+const ProductDetail = ({
   params,
 }: {
   params: {
@@ -14,4 +14,4 @@ const productDetail = ({
   );
 };
 
-export default productDetail;
+export default ProductDetail;

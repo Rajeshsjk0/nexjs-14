@@ -1,4 +1,4 @@
-const page = () => {
+const Products = () => {
   return (
     <div>
       <ol>
@@ -10,4 +10,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Products;

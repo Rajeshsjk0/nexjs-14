@@ -1,5 +1,5 @@
-const blog1 = () => {
+const Blog1 = () => {
   return <div>Blog 1</div>;
 };
 
-export default blog1;
+export default Blog1;

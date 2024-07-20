@@ -1,4 +1,4 @@
-const productReview = ({
+const ProductReview = ({
   params,
 }: {
   params: {
@@ -18,4 +18,4 @@ const productReview = ({
   );
 };
 
-export default productReview;
+export default ProductReview;
