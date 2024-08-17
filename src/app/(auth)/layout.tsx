@@ -12,7 +12,7 @@ export default function RootLayout({
 }>) {
   return (
     <div>
-      <h2>inner Layout</h2>
+      <h2>Auth Layout</h2>
       {children}
     </div>
   );
